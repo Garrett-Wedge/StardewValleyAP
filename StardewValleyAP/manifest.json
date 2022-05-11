@@ -1,0 +1,10 @@
+﻿{
+  "Name": "StardewValleyAP",
+  "Author": "Garrett Wedge",
+  "Version": "1.0.0",
+  "Description": "An Archipelago Multiworld integration of Stardew Valley,",
+  "UniqueID": "Garrett-Wedge.StardewValleyAP",
+  "EntryDll": "StardewValleyAP.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
